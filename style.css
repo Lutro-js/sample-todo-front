@@ -28,7 +28,7 @@ h1 {
     margin: 10px;
 
 }
-/*クラスのタグにCSSを与えるときは「＃」を使う*/
+/*id,クラスのタグにCSSを与えるときは「＃,.」を使う*/
 #todo-area {
     height: 600px;
     width: 500px;
